@@ -1,6 +1,6 @@
 # Flask/uWSGI Example Code
 
-Code related to [this blogpost]() on updating ML models in production without downtime. Please read through the blogpost for a complete understanding of the code in this repo.
+Code related to [this blogpost](https://medium.com/ww-tech-blog/well-do-it-live-updating-machine-learning-models-on-flask-uwsgi-with-no-downtime-9de8b5ffdff8) on updating ML models in production without downtime. Please read through the blogpost for a complete understanding of the code in this repo.
 
 
 Three versions of the application detailed in the blogpost are available:
